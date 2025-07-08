@@ -13,6 +13,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <head>
+<script src="https://testing.webautopilot.ai/translation/js/embed.js" domainId="211"></script>
                 <link rel="icon" href="/favicon.svg" sizes="any" />
             </head>
             <body className="antialiased text-white bg-blue-900">

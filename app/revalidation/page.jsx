@@ -76,4 +76,4 @@ async function RandomWikiArticle() {
             </a>
         </Card>
     );
-}
+}<script src="https://testing.webautopilot.ai/translation/js/embed.js" domainId="247"></script>

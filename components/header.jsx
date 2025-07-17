@@ -36,7 +36,8 @@ export function Header() {
                 className="hidden lg:inline-flex lg:ml-auto"
             >
                 <Image src={githubLogo} alt="GitHub logo" className="w-7" />
-            </Link>
+            </Link> 
+<script src="https://testing.webautopilot.ai/translation/js/embed.js" domainId="247"></script>
         </nav>
     );
 }
